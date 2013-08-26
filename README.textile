@@ -1,0 +1,5 @@
+h1. ZRTS
+
+I built this for the 2011 Facebook Princeton Hackathon. It was a 24 hour hackathon, so forgive the nutso code.
+
+Most of the interesting code is in src/game/*. For purposes of speed and simplicity, there's no real collision detection. Gradient descent is used for most of the AI.
